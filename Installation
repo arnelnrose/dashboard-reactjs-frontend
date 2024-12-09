@@ -1,0 +1,27 @@
+1. npm create vite@latest
+2. cd my-project
+3. npm install
+4. npm i react-router-dom
+5. npm install @mui/material @emotion/react @emotion/styled
+6. npm install @mui/material @mui/styled-engine-sc styled-components
+7. npm install @mui/icons-material
+8. npm install react-icons --save
+9. npm i bootstrap@5.3.3
+
+==============================
+COLORS
+==============================
+Body BG: #f2f4f7
+Seach BG Color: #f0f2f5
+Icons BG Colors: #e2e5e9
+Dropdown Hover: #f2f2f2
+==============================
+HOW TO PUSH IN GITHUB:
+==============================
+git init
+git add .
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/arnelnrose/dashboard-reactjs-frontend.git
+git push -u origin main
